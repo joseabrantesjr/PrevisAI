@@ -32,7 +32,7 @@ A ferramenta utiliza dados históricos obtidos através da API do Yahoo Finance 
 #### Como instalar:
 1. Clone o repositório do software (ou baixe o código):
    ```bash
-   git clone https://github.com/seurepositorio/Previsai.git
+   git clone https://github.com/joseabrantesjr/PrevisAI
    ```
 
 2. Navegue até o diretório do projeto:
