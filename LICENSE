@@ -1,52 +1,21 @@
- **Creative Commons Atribuição-NãoComercial-SemDerivações (CC BY-NC-ND)**:
+MIT License
 
----
+Copyright (c) [2024] [Jose Calazans Abrantes Júnior]
 
-# LICENÇA
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Licença Pública Internacional Atribuição-NãoComercial-SemDerivações 4.0 (CC BY-NC-ND 4.0)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Ao exercer os Direitos Licenciados (definidos abaixo), Você aceita e concorda em se comprometer com os termos e condições desta Licença Pública Internacional Atribuição-NãoComercial-SemDerivações 4.0 (a "Licença Pública"). Na medida em que esta Licença Pública possa ser interpretada como um contrato, Você recebe os Direitos Licenciados em consideração à sua aceitação desses termos e condições, e o Licenciante concede a Você esses direitos em consideração aos benefícios que o Licenciante recebe ao disponibilizar o Material Licenciado sob estes termos e condições.
-
-## Seção 1 – Definições.
-
-- **Material Licenciado** significa a obra artística ou literária, banco de dados ou outro material ao qual o Licenciante aplicou esta Licença Pública.
-- **Direitos Licenciados** significa os direitos concedidos a Você sujeitos aos termos e condições desta Licença Pública, limitados a todos os direitos autorais e direitos semelhantes que se aplicam ao seu uso do Material Licenciado e que o Licenciante tem autoridade para licenciar.
-- **Licenciante** significa a(s) pessoa(s) física(s) ou jurídica(s) concedendo direitos sob esta Licença Pública.
-- **Você** significa o indivíduo ou entidade que exerce os Direitos Licenciados sob esta Licença Pública.
-
-## Seção 2 – Âmbito.
-
-### Concessão da Licença.
-Sujeito aos termos e condições desta Licença Pública, o Licenciante concede a Você uma licença mundial, livre de royalties, intransferível e não exclusiva para exercer os Direitos Licenciados no Material Licenciado, a saber:
-
-- Compartilhar — copiar e redistribuir o material em qualquer formato ou meio.
-
-### NãoComercial.
-Você não pode usar o material para fins comerciais.
-
-### SemDerivações.
-Se Você remixar, transformar ou criar a partir do material, não poderá distribuir o material modificado.
-
-### Atribuição.
-- Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se foram feitas alterações. Você pode fazer isso de qualquer maneira razoável, mas não de forma que sugira que o licenciante endossa Você ou o seu uso.
-
-### Sem restrições adicionais.
-Você não pode aplicar termos legais ou medidas tecnológicas que restrinjam legalmente outros de fazerem qualquer uso permitido pela licença.
-
-## Seção 3 – Isenção de Garantias e Limitação de Responsabilidade.
-
-- **Sem garantias** são fornecidas. A licença pode não lhe conceder todos os direitos necessários para seu uso pretendido. Por exemplo, outros direitos, como direitos de publicidade, privacidade ou direitos morais, podem limitar o seu uso do material.
-- **Limitação de responsabilidade:** Em nenhuma hipótese o licenciante será responsável por você em qualquer teoria jurídica por quaisquer danos especiais, incidentais, consequenciais, punitivos ou exemplares decorrentes desta licença ou do uso do material licenciado.
-
-## Seção 4 – Rescisão.
-
-O Licenciante reserva-se o direito de encerrar seus direitos sob esta licença se você violar os termos.
-
-## Seção 5 – Disposições Gerais.
-
-O Licenciante concorda em disponibilizar o Material Licenciado para uso sob os termos desta licença, sem permissão para a criação de obras derivadas ou modificações adicionais.
-
----
-
-Este arquivo segue os termos da licença **CC BY-NC-ND 4.0**, permitindo redistribuição com atribuição, sem uso comercial e sem a criação de obras derivadas.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
