@@ -15,3 +15,4 @@ A ferramenta utiliza dados históricos obtidos através da API do Yahoo Finance 
 - [Estrutura do Código](doc/estrutura.md)
 - [Melhorias e Expansão](doc/melhorias.md)
 - [Como Contribuir e Se Beneficiar](doc/contribuir.md)
+- [Sobre Mim](doc/sobre.md)

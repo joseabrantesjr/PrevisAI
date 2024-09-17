@@ -164,6 +164,16 @@ Recomendação: Considere vender ou manter. O modelo prevê uma tendência de ba
 Junte-se à comunidade de investidores e analistas que estão transformando a maneira como analisamos o mercado financeiro. Faça parte do futuro da previsão de preços com o **PrevisAI**!
 
 ---
+### ***Sobre Mim***
+Sou José Calazans Abrantes Júnior, um profissional com conhecimentos avançados em , machine learning, deep learning, análise de dados. Através de uma sólida formação autodidata, desenvolvi habilidades em técnicas de previsão e análise financeira, utilizando redes neurais, como LSTM, além da utilização de modelos para otimização de portfólio.
+
+Atualmente, trabalho na Bio-G, em Resende/RJ, aplicando meu conhecimento para otimizar processos de saneamento. Também desenvolvi o Flask Password Manager, uma aplicação web que assegura a proteção de senhas com criptografia avançada.
+
+Minha trajetória profissional inclui a gestão de uma microempresa de artigos esportivos (proprietário) e diversas funções administrativas e logísticas em diferentes empresas, o que demonstra minha versatilidade e capacidade de adaptação. Além disso, tenho experiência internacional com trabalho voluntário na Inglaterra e na Espanha.
+
+Sou proficiente em Python, PHP, SQL, Node e várias bibliotecas e frameworks, como TensorFlow, Keras e Flask. Estou sempre em busca de aprimorar minhas habilidades e contribuir para inovações nos campos financeiro e ambiental.
+
+---
 
 ### Licença
 
