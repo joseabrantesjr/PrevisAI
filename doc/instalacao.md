@@ -31,7 +31,7 @@ Para instalar e executar o PrevisAI, siga os passos abaixo:
     pip install -r requirements.txt
     ```
 
-4. Execute o arquivo principal `Previsai.py`:
+4. Execute o arquivo principal `previsai.py`:
 
     ```bash
     python previsai.py
