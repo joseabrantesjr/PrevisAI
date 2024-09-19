@@ -201,4 +201,3 @@ O software **PrevisAI** é disponibilizado sob a licença MIT. Sinta-se livre pa
 **PrevisAI: Antecipe o mercado, maximize lucros.**
 
 
-docker build -t previsai .
