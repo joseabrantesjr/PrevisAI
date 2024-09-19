@@ -24,6 +24,23 @@ A ferramenta utiliza dados históricos obtidos através da API do Yahoo Finance 
 
 #### Pré-requisitos:
 - Python 3.x
+
+
+### Método recomendado (Docker):
+  ```bash
+ docker run -it previsai
+ ```
+### Método manual:
+- Criar um ambiente vritual:
+  ```bash
+  python3 -m venv venv
+  ```
+
+- Ativar o ambiente virtual (MacOS, Linux):
+  ```bash
+  source venv/bin/activate
+  ```
+
 - Instalar as bibliotecas necessárias:
   ```bash
   pip install -r requirements.txt
